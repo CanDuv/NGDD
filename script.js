@@ -1,5 +1,5 @@
 // Global audio elements
-const clickSound = new Audio('assets/audio/click.wav');
+const clickSound = new Audio('assets/audio/button-press-382713.mp3');
 
 // Wait until DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
